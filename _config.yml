@@ -1,0 +1,28 @@
+name: Deb Pang Davis
+favicon: null
+layout_spectrum: 0.7602964579127729
+typography_spectrum: 0.1013985623139888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.35476923012174666
+  lightness: 0.4741228464990854
+  saturation: 0.5009254349861294
+  rhythmicContrast: 0.6373947837855667
+purpose: []
